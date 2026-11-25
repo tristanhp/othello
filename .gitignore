@@ -1,0 +1,11 @@
+# SWI-Prolog
+*.qlf
+*.sav
+*~
+.#*
+
+# Éditeurs / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
